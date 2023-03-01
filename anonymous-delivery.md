@@ -33,9 +33,9 @@ The obvious problem with this approach is that it does not scale well. Some
 amount of proof of work on every secret event is necessary.
 
 One could imagine having users subscribe to different prefixes of secret events,
-in order to receive only a subset them. This would reduce the anonymity set by
-the same factor. Relays would be able to get a better idea of who is messaging
-whom, especially for messages between users at different prefixes.
+in order to receive only a subset of them. This would reduce the anonymity set
+by the same factor. Relays would be able to get a better idea of who is
+messaging whom, especially for messages between users at different prefixes.
 
 
 Solution 2: Rendezvous Beacons
